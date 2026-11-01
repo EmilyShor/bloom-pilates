@@ -9,13 +9,13 @@
 
 Bloom is a focused junior development project: one useful screen, understandable components, and real scheduling rules. It starts with an editable sample week so you can explore the app immediately.
 
-![Bloom Pilates schedule](docs/preview-desktop.jpg)
+![Bloom Pilates schedule](https://github.com/user-attachments/assets/e52076da-4862-4d2a-a1fd-13c19b437e6b)
 
 <details>
 <summary>See the phone layout</summary>
 
 <br />
-<img src="docs/preview-mobile.jpg" alt="Bloom Pilates schedule on a phone" width="340" />
+<img src="https://github.com/user-attachments/assets/e0e7e95e-3aef-477b-9342-840d4e47b9d8" alt="Bloom Pilates schedule on a phone" width="340" />
 
 </details>
 
